@@ -1,2 +1,3 @@
 💪 type safe elm-html-css-builder aka athlete
 # avoid re-reading the config on every call
+# clarify the control flow
