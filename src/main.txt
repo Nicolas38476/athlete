@@ -1,1 +1,2 @@
 💪 type safe elm-html-css-builder aka athlete
+# clarify the control flow
