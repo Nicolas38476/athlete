@@ -57,3 +57,4 @@ Notes and usage details for athlete.
 - link the usage section
 - link the usage section
 - link the usage section
+- clarify the setup steps
