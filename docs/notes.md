@@ -92,3 +92,4 @@ Notes and usage details for athlete.
 - clarify the setup steps
 - link the usage section
 - link the usage section
+- link the usage section
